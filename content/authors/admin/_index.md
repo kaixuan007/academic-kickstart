@@ -15,7 +15,7 @@ role: Undergraduate of Shanghai Conservatory of Music
 # Organizations/Affiliations
 organizations:
 - name: Shanghai Conservatory of Music
-  url: ""
+  url: "CBNOafqNhWiV_23yGihYrZCG7SAWs6iKw34rx1RGyjY2Bkcv_WRRDw62EcUuMoF2&wd=&eqid=9f6c3823000d28e1000000065ecbfa75"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
