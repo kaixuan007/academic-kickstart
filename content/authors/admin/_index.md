@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Kaixuan
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergraduate of Shanghai Conservatory of Music
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Shanghai Conservatory of Music
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
